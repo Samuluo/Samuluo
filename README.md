@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-**Samuluo/Samuluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am **Samuluo**, a second-year graduate student. I am currently studying at the School of Computer Science, Sichuan University. I graduated from the School of Software Engineering, Sichuan University for my undergraduate studies.
 
@@ -12,4 +11,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying in Sichuan Unveristy,
 - 🌱 I’m currently learning Array Signal Proccessing, combining with some deep learning methods
 - 🤔 I’m looking for help with LLM, AI agent
-- 💬 Ask me about Array Signal Proccessing
+- 💬 Ask me about Signal Proccessing
